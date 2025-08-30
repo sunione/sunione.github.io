@@ -11,3 +11,5 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem "jekyll-admin", "~> 0.12.0", group: :jekyll_plugins
