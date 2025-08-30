@@ -6,7 +6,7 @@ name: Your Name
 description: personal description
 url: 'https://sunione.github.io'
 baseurl: ''
-repository: academicpages/academicpages.github.io
+repository: sunione/sunione.github.io
 author:
   avatar: IMG_4592.JPG
   name: Jiwon Sung
