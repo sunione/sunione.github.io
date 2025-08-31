@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "👋 Hello, my name is Jiwon!"
+page_title: "Jiwon's Website"
 author_profile: true
 redirect_from: 
   - /about/
