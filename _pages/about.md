@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello, my name is Jiwon!"
+title: "👋 Hello, my name is Jiwon!"
 author_profile: true
 redirect_from: 
   - /about/
