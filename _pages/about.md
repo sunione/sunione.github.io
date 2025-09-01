@@ -19,12 +19,10 @@ My research interests lie at the intersection of **wireless communications**, **
 🏫 Education
 ======
 ### Korea Advanced Institute of Science and Technology (KAIST)  
-📍 Daejeon, Korea &nbsp;|&nbsp; 📅 Feb. 2024 – Present  
+📍 Daejeon, Korea &nbsp;|&nbsp; 📅 Feb. 2024 – Feb. 2026 (Expected)  
 🎓 M.S. in Electrical Engineering  
 👨‍🏫 Advisor: [Prof. Jinseok Choi](https://sic-x.kaist.ac.kr/professor)  
 📊 GPA: 4.12 / 4.3
-
--
 
 ### Ulsan National Institute of Science and Technology (UNIST)  
 📍 Ulsan, Korea &nbsp;|&nbsp; 📅 Feb. 2018 – Feb. 2024  
