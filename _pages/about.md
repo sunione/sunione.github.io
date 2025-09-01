@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master's student in the School of Electrical Engineering at KAIST, where I am fortunate to be advised by [Prof. Jinseok Choi](https://sic-x.kaist.ac.kr/professor).
+I am a second-year Master's student in the School of Electrical Engineering at KAIST, where I am fortunate to be advised by [Prof. Jinseok Choi](https://sic-x.kaist.ac.kr/professor). Currently, I am also collaborating with [Prof. David J. Love](https://engineering.purdue.edu/~djlove/) at Purdue University as a visiting scholar.
 
 
 
