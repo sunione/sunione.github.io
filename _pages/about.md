@@ -28,7 +28,7 @@ GPA: 4.12 / 4.3
 
 **Ulsan National Institute of Science and Technology (UNIST)**  
 📍 Ulsan, Korea | 📅 Feb. 2018 – Feb. 2024  
-*B.S. in Electrical Engineering* (Summa Cum Laude)
+*B.S. in Electrical Engineering* (Summa Cum Laude)  
 GPA: 4.15 / 4.3 (Ranked 1 / 51)
 
 
