@@ -18,7 +18,17 @@ My research interests lie at the intersection of **wireless communications**, **
 
 🏫 Education
 ======
+**Korea Advanced Institute of Science and Technology (KAIST)**  
+*Feb. 2024 – Present* • *Daejeon, Korea*  
+*M.S. in Electrical Engineering*  
+Advisor: **Prof. Jinseok Choi** • GPA: **4.12/4.3**
 
+---
+
+**Ulsan National Institute of Science and Technology (UNIST)**  
+*Feb. 2018 – Feb. 2024* • *Ulsan, Korea*  
+*B.S. in Electrical Engineering* • *Summa Cum Laude*  
+GPA: **4.15/4.3** (*Ranked 1/51*)
 
 
 
