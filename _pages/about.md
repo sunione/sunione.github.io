@@ -18,7 +18,7 @@ My research interests lie at the intersection of **wireless communications**, **
 
 🏫 Education
 ======
-## Korea Advanced Institute of Science and Technology (KAIST)  
+### Korea Advanced Institute of Science and Technology (KAIST)  
 📍 Daejeon, Korea | 📅 Feb. 2024 – Present  
 *M.S. in Electrical Engineering*  
 Advisor: [Prof. Jinseok Choi](https://sic-x.kaist.ac.kr/professor)  
