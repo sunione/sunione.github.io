@@ -115,6 +115,27 @@ International Conference Papers
 Domestic Conference Papers 🇰🇷
 ======
 
+<div style="height: 10px;"></div>
+
+\[PUBLISHED / ACCEPTED\]
+
+<div style="height: 20px;"></div>
+
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> [DC1] 양자화기 기반 전송률분할 다중접속 프리코더 및 전송 전력 최적화 </h3>
+    <p> <strong>성지원</strong>, 박석준, 최진석 </p>
+    <p> 통신 정보 합동 학술대회 (<strong>JCCI</strong>), Apr. 24-26, 2024, 부산 </p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a>
+    </p>
+  </div>
+</div>
+
+
+
 
 
 
