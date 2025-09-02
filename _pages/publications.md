@@ -9,6 +9,7 @@ author_profile: true
 
 <br>
 
+<!--
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
   <img src="/images/paper-example.png" alt="Paper Example" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
@@ -23,6 +24,7 @@ author_profile: true
     </p>
   </div>
 </div>
+-->
 
 ### \[PUBLISHED / ACCEPTED\]
 
