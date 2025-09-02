@@ -56,7 +56,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/J1_system_model.png" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <img src="/images/J1_system_model.png" class="boxed-image" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
@@ -128,6 +128,14 @@ International Conference Papers
   border-color: #e55100;
   color: white;
   text-decoration: none;
+}
+
+.boxed-image {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 /* Responsive design */
