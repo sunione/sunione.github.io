@@ -118,6 +118,7 @@ Dissertation / Thesis Papers
 <div style="height: 10px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+    <img src="/images/UNIST_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [B.S. Thesis] Degree-Preserving Local Differential Privacy for Analyzing Coreness of Decentralized Social Networks </h3>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
