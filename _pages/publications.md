@@ -112,6 +112,21 @@ International Conference Papers
 
 ---
 
+Dissertation / Thesis Papers
+======
+
+<div style="height: 10px;"></div>
+
+\[B.S. Thesis\]
+
+<div style="height: 20px;"></div>
+
+
+
+
+
+---
+
 Domestic Conference Papers 🇰🇷
 ======
 
