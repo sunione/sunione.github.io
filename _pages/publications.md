@@ -145,14 +145,14 @@ Domestic Conference Papers 🇰🇷
 
 /* IEEE Xplore button */
 .btn--xplore {
-  background-color: #4a90c2;  /* Lighter blue (default) */
+  background-color: #0891b2;  /* Top color (lighter teal) */
   color: white;
-  border: 1px solid #4a90c2;
+  border: 1px solid #0891b2;
 }
 
 .btn--xplore:hover {
-  background-color: #2c5aa0;  /* Darker blue (hover) */
-  border-color: #2c5aa0;
+  background-color: #164e63;  /* Bottom color (darker teal/navy) */
+  border-color: #164e63;
   color: white;
   text-decoration: none;
 }
