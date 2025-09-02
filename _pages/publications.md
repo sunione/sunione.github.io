@@ -5,10 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2025
-
-
-# 2024
+Journal Papers
+======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
   <img src="/images/paper-example.png" alt="Paper Example" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
@@ -25,7 +23,8 @@ author_profile: true
   </div>
 </div>
 
-# Earlier Work
+Conference Papers
+======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
