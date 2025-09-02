@@ -37,7 +37,7 @@ Conference Papers
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
     <p> 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025 (accepted) </p>
     <p>
-      %% <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
     </p>
   </div>
 </div>
