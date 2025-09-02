@@ -64,7 +64,7 @@ author_profile: true
 
 
 
-Conference Papers
+International Conference Papers
 ======
 
 \[PUBLISHED / ACCEPTED\]
