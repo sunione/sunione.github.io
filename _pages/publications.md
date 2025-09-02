@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Journal Papers"
 permalink: /publications/
 author_profile: true
 ---
 
----
-
-Journal Papers
-======
+### \[SUBMITTED / IN PREPARATION\]
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
   <img src="/images/paper-example.png" alt="Paper Example" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
@@ -21,6 +18,21 @@ Journal Papers
       <a href="https://arxiv.org/abs/2024.xxxxx" class="btn btn--primary btn--small">arXiv</a>
       <a href="http://academicpages.github.io/files/paper3.pdf" class="btn btn--primary btn--small">Xplore</a>
       <a href="/files/paper5-slides.pdf" class="btn btn--primary btn--small">Slides</a>
+    </p>
+  </div>
+</div>
+
+### \[PUBLISHED / ACCEPTED\]
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
+    <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
+    <p> IEEE Signal Processing Letters (accepted) </p>
+    <p>
+      <a href="https://arxiv.org/abs/2503.10022" class="btn btn--primary btn--small">arXiv</a>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
     </p>
   </div>
 </div>
