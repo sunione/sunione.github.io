@@ -30,7 +30,7 @@ Journal Papers
 Conference Papers
 ======
 
-## \[PUBLISHED / ACCEPTED\]
+### \[PUBLISHED / ACCEPTED\]
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
