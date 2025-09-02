@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+---
+
+# Short Bio
 
 Hello! I am a second-year Master's student in the School of Electrical Engineering at **KAIST**, where I am fortunate to be advised by [**Prof. Jinseok Choi**](https://sic-x.kaist.ac.kr/professor). Currently, I am also collaborating with [**Prof. David J. Love**](https://engineering.purdue.edu/~djlove/) at **Purdue University** as a visiting scholar.
 
@@ -17,6 +21,7 @@ My research interests lie at the intersection of **wireless communications**, **
 
 
 # Education
+
 ### Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Korea &nbsp;|&nbsp; Feb. 2024 – Feb. 2026 (Expected)  
 **M.S. in Electrical Engineering**  
