@@ -67,6 +67,8 @@ author_profile: true
 International Conference Papers
 ======
 
+<div style="height: 10px;"></div>
+
 \[PUBLISHED / ACCEPTED\]
 
 <div style="height: 20px;"></div>
