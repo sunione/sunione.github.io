@@ -39,7 +39,7 @@ author_profile: true
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
     <p> IEEE Transactions on Wireless Communications (<strong>TWC</strong>), under peer review </p>
     <p>
-      <a href="https://arxiv.org/abs/2508.05080" class="btn btn--primary btn--small">arXiv</a>
+      <a href="https://arxiv.org/abs/2508.05080" class="btn btn--arxiv btn--small">arXiv</a>
       <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
     </p>
   </div>
@@ -62,8 +62,8 @@ author_profile: true
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
     <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
     <p>
-      <a href="https://arxiv.org/abs/2503.10022" class="btn btn--primary btn--small">arXiv</a>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
+      <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a> -->
     </p>
   </div>
 </div>
@@ -89,8 +89,8 @@ International Conference Papers
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
     <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC2025-Spring</strong>), Oslo, Norway, 2025 (accepted) </p>
     <p>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
-      <a href="/files/VTC2025_JiwonSung_vf.pdf" class="btn btn--primary btn--small">Slides</a>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a> -->
+      <a href="/files/VTC2025_JiwonSung_vf.pdf" class="btn btn--slides btn--small">Slides</a>
     </p>
   </div>
 </div>
@@ -102,7 +102,7 @@ International Conference Papers
     <p> Seokjun Park, <strong>Jiwon Sung</strong>, Jinseok Choi, Jeonghun Park, and Wonjae Shin </p>
     <p> 2024 32nd European Signal Processing Conference (<strong>EUSIPCO</strong>), Lyon, France, 2024, pp. 857-861 </p>
     <p>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a>
     </p>
   </div>
 </div>
@@ -129,19 +129,76 @@ Domestic Conference Papers 🇰🇷
   display: inline-block;
 }
 
-.btn--primary {
+/* arXiv button (red) */
+.btn--arxiv {
+  background-color: #b31b1b;
+  color: white;
+  border: 1px solid #b31b1b;
+}
+
+.btn--arxiv:hover {
+  background-color: #921616;
+  border-color: #921616;
+  color: white;
+  text-decoration: none;
+}
+
+/* IEEE Xplore button (blue) */
+.btn--xplore {
+  background-color: #0073e6;
+  color: white;
+  border: 1px solid #0073e6;
+}
+
+.btn--xplore:hover {
+  background-color: #005bb5;
+  border-color: #005bb5;
+  color: white;
+  text-decoration: none;
+}
+
+/* PDF button (orange) */
+.btn--pdf {
   background-color: #ff6600;
   color: white;
   border: 1px solid #ff6600;
 }
 
-.btn--primary:hover {
+.btn--pdf:hover {
   background-color: #e55100;
   border-color: #e55100;
   color: white;
   text-decoration: none;
 }
 
+/* Slides button (green) */
+.btn--slides {
+  background-color: #28a745;
+  color: white;
+  border: 1px solid #28a745;
+}
+
+.btn--slides:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+  color: white;
+  text-decoration: none;
+}
+
+/* Code button (dark gray) */
+.btn--code {
+  background-color: #333;
+  color: white;
+  border: 1px solid #333;
+}
+
+.btn--code:hover {
+  background-color: #24292e;
+  border-color: #24292e;
+  color: white;
+  text-decoration: none;
+}
+  
 .boxed-image {
   border: 1px solid #ddd;
   border-radius: 8px;
