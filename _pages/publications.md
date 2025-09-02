@@ -84,6 +84,7 @@ International Conference Papers
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/C2_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [C2] Joint Optimization for Power-Constrained MIMO Systems: Is Low-Resolution DAC Still Optimal? </h3>
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
