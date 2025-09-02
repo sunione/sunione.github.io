@@ -26,7 +26,7 @@ author_profile: true
 
 ### \[SUBMITTED / IN PREPARATION\]
 
-<div style="height: 15px;"></div>
+<div style="height: 20px;"></div>
 
 
 
@@ -45,7 +45,7 @@ author_profile: true
 
 ### \[PUBLISHED / ACCEPTED\]
 
-<div style="height: 15px;"></div>
+<div style="height: 20px;"></div>
 
 
 
@@ -69,7 +69,7 @@ Conference Papers
 
 ### \[PUBLISHED / ACCEPTED\]
 
-<div style="height: 15px;"></div>
+<div style="height: 20px;"></div>
 
 
 
