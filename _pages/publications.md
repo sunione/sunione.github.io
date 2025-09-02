@@ -124,7 +124,7 @@ Dissertation / Thesis Papers
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
     <p>
       <a href="/files/UNIST_thesis.pdf" class="btn btn--pdf btn--small">PDF</a>
-      <a href="/files/UNIST_thesis_poster.pdf" class="btn btn--pdf btn--small">Poster</a>
+      <a href="/files/UNIST_thesis_poster.pdf" class="btn btn--slides btn--small">Poster</a>
     </p>
   </div>
 </div>
