@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: # "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -23,14 +23,16 @@ Journal Papers
   </div>
 </div>
 
+
+
 Conference Papers
 ======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;">Another Paper Title</h3>
-    <p><em>Your Name</em>, Co-Author</p>
+    <h3 style="margin-top: 0;"> Maximizing Energy and Spectral Efficiency Tradeoff in MISO-RSMA Systems Under Coarse Quantization </h3>
+    <p> Seokjun Park, **Jiwon Sung**, Jinseok Choi, Jeonghun Park, and Wonjae Shin </p>
     <p>Conference Name, 2023</p>
     <p>Brief description of what this paper is about and its main contributions.</p>
     <p>
