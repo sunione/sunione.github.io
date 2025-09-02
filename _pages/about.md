@@ -16,8 +16,8 @@ My research interests lie at the intersection of **wireless communications**, **
 
 
 
-Education
-------
+# Education
+
 ### Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Korea &nbsp;|&nbsp; Feb. 2024 – Feb. 2026 (Expected)  
 **M.S. in Electrical Engineering**  
