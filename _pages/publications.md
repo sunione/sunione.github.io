@@ -31,7 +31,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <img src="/images/J2_system_model.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [S1] Power-Constrained and Quantized MIMO-RSMA Systems with Imperfect CSIT: Joint Precoding, Antenna Selection, and Power Control </h3>
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
@@ -50,7 +50,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <img src="/images/J1_system_model.png" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
