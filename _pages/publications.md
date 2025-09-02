@@ -33,13 +33,11 @@ Conference Papers
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;"> Maximizing Energy and Spectral Efficiency Tradeoff in MISO-RSMA Systems Under Coarse Quantization </h3>
+    <h3 style="margin-top: 0;"> [C1] Maximizing Energy and Spectral Efficiency Tradeoff in MISO-RSMA Systems Under Coarse Quantization </h3>
     <p> Seokjun Park, <strong>Jiwon Sung</strong>strong>, Jinseok Choi, Jeonghun Park, and Wonjae Shin </p>
-    <p>2024 32nd European Signal Processing Conference (EUSIPCO)</p>
-    <p>Brief description of what this paper is about and its main contributions.</p>
+    <p>2024 32nd European Signal Processing Conference (<strong>EUSIPCO</strong>)</p>
     <p>
-      <a href="https://doi.org/paper-doi" class="btn btn--primary btn--small">DOI</a>
-      <a href="/files/paper2.pdf" class="btn btn--primary btn--small">PDF</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a>
     </p>
   </div>
 </div>
