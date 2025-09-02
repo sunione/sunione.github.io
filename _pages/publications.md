@@ -129,30 +129,30 @@ Domestic Conference Papers 🇰🇷
   display: inline-block;
 }
 
-/* arXiv button (red) */
+/* arXiv button */
 .btn--arxiv {
-  background-color: #b31b1b;
+  background-color: #b91c1c;  /* arXiv red from screenshot */
   color: white;
-  border: 1px solid #b31b1b;
+  border: 1px solid #b91c1c;
 }
 
 .btn--arxiv:hover {
-  background-color: #921616;
-  border-color: #921616;
+  background-color: #991b1b;  /* Darker red (hover) */
+  border-color: #991b1b;
   color: white;
   text-decoration: none;
 }
 
-/* IEEE Xplore button (blue) */
+/* IEEE Xplore button */
 .btn--xplore {
-  background-color: #0073e6;
+  background-color: #4a90c2;  /* Lighter blue (default) */
   color: white;
-  border: 1px solid #0073e6;
+  border: 1px solid #4a90c2;
 }
 
 .btn--xplore:hover {
-  background-color: #005bb5;
-  border-color: #005bb5;
+  background-color: #2c5aa0;  /* Darker blue (hover) */
+  border-color: #2c5aa0;
   color: white;
   text-decoration: none;
 }
