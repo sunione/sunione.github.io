@@ -28,6 +28,8 @@ author_profile: true
 
 <div style="height: 15px;"></div>
 
+
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
@@ -44,6 +46,8 @@ author_profile: true
 ### \[PUBLISHED / ACCEPTED\]
 
 <div style="height: 15px;"></div>
+
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
@@ -67,6 +71,16 @@ Conference Papers
 
 <div style="height: 15px;"></div>
 
+
+    <h3 style="margin-top: 0;"> [C2] Joint Optimization for Power-Constrained MIMO Systems: Is Low-Resolution DAC Still Optimal? </h3>
+    <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
+    <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC2025-Spring</strong>), Oslo, Norway, 2025 (accepted) </p>
+    <p>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
+      <a href="/files/VTC2025_JiwonSung_vf.pdf" class="btn btn--primary btn--small">Slides</a>
+    </p>
+    
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
@@ -80,6 +94,7 @@ Conference Papers
   </div>
 </div>
 
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
@@ -91,6 +106,7 @@ Conference Papers
     </p>
   </div>
 </div>
+
 
 <style>
 .btn--small {
