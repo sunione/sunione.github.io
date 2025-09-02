@@ -75,6 +75,7 @@ Conference Papers
     <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC2025-Spring</strong>), Oslo, Norway, 2025 (accepted) </p>
     <p>
       <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
+      <a href="/files/VTC2025_JiwonSung_vf.pdf" class="btn btn--primary btn--small">Slides</a>
     </p>
   </div>
 </div>
@@ -103,14 +104,14 @@ Conference Papers
 }
 
 .btn--primary {
-  background-color: #007bff;
+  background-color: #ff6600;
   color: white;
-  border: 1px solid #007bff;
+  border: 1px solid #ff6600;
 }
 
 .btn--primary:hover {
-  background-color: #0056b3;
-  border-color: #0056b3;
+  background-color: #e55100;
+  border-color: #e55100;
   color: white;
   text-decoration: none;
 }
