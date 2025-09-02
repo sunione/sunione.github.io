@@ -24,7 +24,7 @@ author_profile: true
 -->
 
 
-### \[SUBMITTED / IN PREPARATION\]
+\[SUBMITTED / IN PREPARATION\]
 
 <div style="height: 20px;"></div>
 
@@ -43,7 +43,7 @@ author_profile: true
   </div>
 </div>
 
-### \[PUBLISHED / ACCEPTED\]
+\[PUBLISHED / ACCEPTED\]
 
 <div style="height: 20px;"></div>
 
@@ -67,7 +67,7 @@ author_profile: true
 Conference Papers
 ======
 
-### \[PUBLISHED / ACCEPTED\]
+\[PUBLISHED / ACCEPTED\]
 
 <div style="height: 20px;"></div>
 
