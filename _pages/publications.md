@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### \[SUBMITTED / IN PREPARATION\]
-
-<br>
 
 <!--
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
@@ -26,6 +23,24 @@ author_profile: true
 </div>
 -->
 
+
+### \[SUBMITTED / IN PREPARATION\]
+
+<br>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <h3 style="margin-top: 0;"> [S1] Power-Constrained and Quantized MIMO-RSMA Systems with Imperfect CSIT: Joint Precoding, Antenna Selection, and Power Control </h3>
+    <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
+    <p> IEEE Transactions on Wireless Communications (<strong>TWC</strong>), submitted for peer review </p>
+    <p>
+      <a href="https://arxiv.org/abs/2508.05080" class="btn btn--primary btn--small">arXiv</a>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
+    </p>
+  </div>
+</div>
+
 ### \[PUBLISHED / ACCEPTED\]
 
 <br>
@@ -35,7 +50,7 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
-    <p> IEEE Signal Processing Letters (accepted) </p>
+    <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
     <p>
       <a href="https://arxiv.org/abs/2503.10022" class="btn btn--primary btn--small">arXiv</a>
       <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
@@ -57,7 +72,7 @@ Conference Papers
   <div>
     <h3 style="margin-top: 0;"> [C2] Joint Optimization for Power-Constrained MIMO Systems: Is Low-Resolution DAC Still Optimal? </h3>
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
-    <p> 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025 (accepted) </p>
+    <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC2025-Spring</strong>), Oslo, Norway, 2025 (accepted) </p>
     <p>
       <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
     </p>
