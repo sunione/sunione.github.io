@@ -26,7 +26,7 @@ author_profile: true
 
 ### \[SUBMITTED / IN PREPARATION\]
 
-<div style="height: 10px;"></div>
+<div style="height: 15px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
@@ -43,7 +43,7 @@ author_profile: true
 
 ### \[PUBLISHED / ACCEPTED\]
 
-<div style="height: 10px;"></div>
+<div style="height: 15px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
@@ -65,7 +65,7 @@ Conference Papers
 
 ### \[PUBLISHED / ACCEPTED\]
 
-<div style="height: 10px;"></div>
+<div style="height: 15px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/paper2-teaser.png" alt="Paper 2" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
