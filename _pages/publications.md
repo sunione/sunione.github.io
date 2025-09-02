@@ -24,6 +24,8 @@ author_profile: true
 -->
 
 
+<div style="height: 10px;"></div>
+
 \[SUBMITTED / IN PREPARATION\]
 
 <div style="height: 20px;"></div>
@@ -42,6 +44,10 @@ author_profile: true
     </p>
   </div>
 </div>
+
+
+
+<div style="height: 10px;"></div>
 
 \[PUBLISHED / ACCEPTED\]
 
