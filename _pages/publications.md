@@ -115,7 +115,7 @@ International Conference Papers
 Dissertation / Thesis Papers
 ======
 
-<div style="height: 10px;"></div>
+<div style="height: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
     <img src="/images/UNIST_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
