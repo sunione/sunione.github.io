@@ -124,7 +124,7 @@ Dissertation / Thesis Papers
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
     <p> *The following research was initially conducted during my internship at InfoLab, KAIST </p>
     <p>
-      <a href="/files/UNIST_thesis.pdf" class="btn btn--pdf btn--small">PDF</a>
+      <a href="/files/UNIST_thesis.pdf" class="btn btn--pdf btn--small">Paper</a>
       <a href="/files/UNIST_thesis_poster.pdf" class="btn btn--slides btn--small">Poster</a>
     </p>
   </div>
@@ -153,7 +153,7 @@ Domestic Conference Papers 🇰🇷
     <p> <strong>성지원</strong>, 최진석 </p>
     <p> 통신 정보 합동 학술대회 (<strong>JCCI</strong>), Apr. 23-25, 2025, 속초 </p>
     <p>
-      <a href="/files/JCCI_2025_JiwonSung.pdf" class="btn btn--pdf btn--small">PDF</a>
+      <a href="/files/JCCI_2025_JiwonSung.pdf" class="btn btn--pdf btn--small">Paper</a>
     </p>
   </div>
 </div>
@@ -164,7 +164,7 @@ Domestic Conference Papers 🇰🇷
     <p> <strong>성지원</strong>, 박석준, 최진석 </p>
     <p> 통신 정보 합동 학술대회 (<strong>JCCI</strong>), Apr. 24-26, 2024, 부산 </p>
     <p>
-      <a href="/files/JCCI_2024_JiwonSung.pdf" class="btn btn--pdf btn--small">PDF</a>
+      <a href="/files/JCCI_2024_JiwonSung.pdf" class="btn btn--pdf btn--small">Paper</a>
     </p>
   </div>
 </div>
