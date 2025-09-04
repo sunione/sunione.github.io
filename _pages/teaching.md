@@ -145,7 +145,10 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> Ulju-gun Science Mentoring for the Gifted </h3>
     <p> Jan. 2019 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
-    <p> Served as an algebra instructor for middle school students in a 3-week educational program </p>
+    <p> Taught algebra and mentored middle school students in a three-week educational program </p>
+    <p>
+      <a href="https://www.youtube.com/playlist?list=PLk3Up81lz3FX8SC6VyUX6x-1hL2lD6ezA" class="btn btn--youtube btn--small">YouTube</a>
+    </p>
   </div>
 </div>
 
