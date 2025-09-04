@@ -116,6 +116,19 @@ Mentoring Experience
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
+    <h3 style="margin-top: 0;"> Ulju-gun STEM Career Exploration </h3>
+    <p> Nov. 2022 </p>
+    <p> Ulsan National Institute of Science and Technology (UNIST) </p>
+    <p> Prepared and led a 555 timer electronic piano building experiment for middle school students </p>
+    <p>
+      <a href="https://www.youtube.com/watch?v=Zgf_INrMZFg&list=PLk3Up81lz3FW0Nw5V2vT2_j44oIScKNIK&index=22" class="btn btn--youtube btn--small">YouTube</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
     <h3 style="margin-top: 0;"> A.I. 4.0 Studio </h3>
     <p> May 2022 – Nov. 2022 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
