@@ -98,7 +98,7 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> Undergraduate Internship Mentor </h3>
     <p> Sep. 2024 - Dec. 2024 </p>
     <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
-    <p> Advised an undergraduate student’s thesis research </p>
+    <p> *Advised an undergraduate student’s thesis research </p>
     <p> <b>Research topic</b>: Joint channel and time-interleaved ADC mismatch compensation in OFDM systems </p>
   </div>
 </div>
@@ -109,7 +109,7 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> Aramco Coding School </h3>
     <p> Aug. 2022 - Nov. 2022 </p>
     <p> Saudi Arabian Oil Company </p>
-    <p> Developed an iOS application for protecting the environment with middle school students </p>
+    <p> *Developed an iOS application for protecting the environment with middle school students </p>
     <p>
       <a href="https://www.nbntv.kr/news/articleView.html?idxno=293495" class="btn btn--pdf btn--small">News</a>
     </p>
@@ -122,7 +122,7 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> Ulju-gun STEM Career Exploration </h3>
     <p> Nov. 2022 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
-    <p> Prepared and led a 555 timer electronic piano building experiment for middle school students </p>
+    <p> *Prepared and led a 555 timer electronic piano building experiment for middle school students </p>
     <p>
       <a href="https://www.youtube.com/watch?v=Zgf_INrMZFg&list=PLk3Up81lz3FW0Nw5V2vT2_j44oIScKNIK&index=22" class="btn btn--youtube btn--small">YouTube</a>
     </p>
@@ -135,7 +135,7 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> A.I. 4.0 Studio </h3>
     <p> May 2022 – Nov. 2022 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
-    <p> Implemented <em>pix2pix</em> (image-to-image translation with cGAN) with high school students using Tensorflow </p>
+    <p> *Implemented <em>pix2pix</em> (image-to-image translation with cGAN) with high school students using Tensorflow </p>
     <p>
       <a href="https://www.youtube.com/watch?v=VZ19ihWSSXs&list=PLk3Up81lz3FWdovNRmj-PSFsaYUPgWi80&index=5" class="btn btn--youtube btn--small">YouTube</a>
     </p>
@@ -148,7 +148,7 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> Ulju-gun Science Mentoring for the Gifted </h3>
     <p> Jan. 2019 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
-    <p> Taught algebra and mentored middle school students in a three-week educational program </p>
+    <p> *Taught algebra and mentored middle school students in a three-week educational program </p>
     <p>
       <a href="https://www.youtube.com/playlist?list=PLk3Up81lz3FX8SC6VyUX6x-1hL2lD6ezA" class="btn btn--youtube btn--small">YouTube</a>
     </p>
