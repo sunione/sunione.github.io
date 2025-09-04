@@ -14,6 +14,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/KAIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Communication Theory </h3>
     <p> Spring 2025 </p>
@@ -22,6 +23,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/KAIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> M.S. Seminar&lt;Colloquium&gt; </h3>
     <p> Fall 2024 </p>
@@ -30,6 +32,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Calculus I </h3>
     <p> Spring 2020 </p>
@@ -38,6 +41,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Contemporary Philosophy </h3>
     <p> Fall 2019 </p>
@@ -58,6 +62,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/KAIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Global Educational Program for Samsung Semiconductor </h3>
     <p> June 2024 - June 2025 </p>
@@ -66,6 +71,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Freshman English Camp </h3>
     <p> Jan. 2020 </p>
@@ -87,6 +93,7 @@ Mentoring Experience
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/KAIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Undergraduate Internship Mentor </h3>
     <p> Sep. 2024 - Dec. 2024 </p>
@@ -97,6 +104,7 @@ Mentoring Experience
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/Aramco_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Aramco Coding School </h3>
     <p> Aug. 2022 - Nov. 2022 </p>
@@ -106,6 +114,7 @@ Mentoring Experience
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> A.I. 4.0 Studio </h3>
     <p> May 2022 – Nov. 2022 </p>
@@ -115,6 +124,7 @@ Mentoring Experience
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/UNIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> Ulju-gun Science Mentoring for the Gifted </h3>
     <p> Jan. 2019 </p>
