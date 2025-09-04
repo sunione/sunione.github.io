@@ -110,6 +110,9 @@ Mentoring Experience
     <p> Aug. 2022 - Nov. 2022 </p>
     <p> Saudi Arabian Oil Company </p>
     <p> Developed an iOS application for protecting the environment with middle school students </p>
+    <p>
+      <a href="https://www.nbntv.kr/news/articleView.html?idxno=293495" class="btn btn--pdf btn--small">News</a>
+    </p>
   </div>
 </div>
 
