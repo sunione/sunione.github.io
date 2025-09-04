@@ -257,11 +257,4 @@ Mentoring Experience
   }
 }
 
-.course-card p {
-  margin: 0;
-}
-.course-card p:first-of-type {
-  margin-bottom: 2px;
-}
-
 </style>
