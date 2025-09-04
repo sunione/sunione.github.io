@@ -99,7 +99,7 @@ Mentoring Experience
     <p> Sep. 2024 - Dec. 2024 </p>
     <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
     <p> Advised an undergraduate student’s thesis research </p>
-    <p> Research topic: joint channel and time-interleaved ADC mismatch compensation in OFDM systems </p>
+    <p> <b>Research topic</b>: joint channel and time-interleaved ADC mismatch compensation in OFDM systems </p>
   </div>
 </div>
 
