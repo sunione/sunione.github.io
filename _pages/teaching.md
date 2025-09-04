@@ -64,7 +64,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/KAIST_logo.jpeg" class="boxed-image" style="width: 100px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;"> Global Educational Program for Samsung Semiconductor </h3>
+    <h3 style="margin-top: 0;"> Global Educational Program for Samsung Semiconductor (G-EPSS) </h3>
     <p> June 2024 - June 2025 </p>
     <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
   </div>
