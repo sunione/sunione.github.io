@@ -217,6 +217,20 @@ Mentoring Experience
   color: white;
   text-decoration: none;
 }
+
+/* YouTube button */
+.btn--youtube {
+  background-color: #FF0000;
+  color: white;
+  border: 1px solid #FF0000;
+}
+
+.btn--youtube:hover {
+  background-color: #CC0000;  /* Darker red (hover) */
+  border-color: #CC0000;
+  color: white;
+  text-decoration: none;
+}
   
 .boxed-image {
   border: 1px solid #ddd;
