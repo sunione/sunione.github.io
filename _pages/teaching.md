@@ -23,7 +23,7 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div>
-    <h3 style="margin-top: 0;"> M.S. Seminar\<Colloquium\> </h3>
+    <h3 style="margin-top: 0;"> M.S. Seminar&lt;Colloquium&gt; </h3>
     <p> Fall 2024 </p>
     <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
   </div>
