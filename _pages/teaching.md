@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="height: 10px;"></div>
 
-\[Courses\]
+\[COURSES\]
 
 <div style="height: 20px;"></div>
 
@@ -51,7 +51,7 @@ author_profile: true
 
 <div style="height: 10px;"></div>
 
-\[Non-Courses\]
+\[NON-COURSES\]
 
 <div style="height: 20px;"></div>
 
