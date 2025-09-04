@@ -7,47 +7,73 @@ author_profile: true
 
 <div style="height: 10px;"></div>
 
-\[KAIST\]
+\[Courses\]
 
 <div style="height: 20px;"></div>
 
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/J2_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;"> [S1] Power-Constrained and Quantized MIMO-RSMA Systems with Imperfect CSIT: Joint Precoding, Antenna Selection, and Power Control </h3>
-    <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
-    <p> IEEE Transactions on Wireless Communications (<strong>TWC</strong>), under peer review </p>
-    <p>
-      <a href="https://arxiv.org/abs/2508.05080" class="btn btn--arxiv btn--small">arXiv</a>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
-    </p>
+    <h3 style="margin-top: 0;"> Communication Theory </h3>
+    <p> Spring 2025 </p>
+    <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> M.S. Seminar\<Colloquium\> </h3>
+    <p> Fall 2024 </p>
+    <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> Calculus I </h3>
+    <p> Spring 2020 </p>
+    <p> Ulsan National Institute of Science and Technology (UNIST) </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> Contemporary Philosophy </h3>
+    <p> Fall 2019 </p>
+    <p> Ulsan National Institute of Science and Technology (UNIST) </p>
+  </div>
+</div>
+
+
 
 
 
 <div style="height: 10px;"></div>
 
-\[UNIST\]
+\[Non-Courses\]
 
 <div style="height: 20px;"></div>
 
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/J1_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
-    <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
-    <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
-    <p>
-      <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a> -->
-    </p>
+    <h3 style="margin-top: 0;"> Global Educational Program for Samsung Semiconductor </h3>
+    <p> June 2024 - June 2025 </p>
+    <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> Freshman English Camp </h3>
+    <p> Jan. 2020 </p>
+    <p> Ulsan National Institute of Science and Technology (UNIST) </p>
+  </div>
+</div>
+
+
 
 
 
