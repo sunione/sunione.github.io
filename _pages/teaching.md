@@ -82,101 +82,46 @@ author_profile: true
 Mentoring Experience
 ======
 
-<div style="height: 10px;"></div>
-
-\[PUBLISHED / ACCEPTED\]
-
-<div style="height: 20px;"></div>
-
-
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/C2_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
-  <div>
-    <h3 style="margin-top: 0;"> [C2] Joint Optimization for Power-Constrained MIMO Systems: Is Low-Resolution DAC Still Optimal? </h3>
-    <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
-    <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC2025-Spring</strong>), Oslo, Norway, 2025 (accepted) </p>
-    <p>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a> -->
-      <a href="/files/VTC2025_JiwonSung_vf.pptx" class="btn btn--slides btn--small">Slides</a>
-    </p>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div>
-    <h3 style="margin-top: 0;"> [C1] Maximizing Energy and Spectral Efficiency Tradeoff in MISO-RSMA Systems Under Coarse Quantization </h3>
-    <p> Seokjun Park, <strong>Jiwon Sung</strong>, Jinseok Choi, Jeonghun Park, and Wonjae Shin </p>
-    <p> 2024 32nd European Signal Processing Conference (<strong>EUSIPCO</strong>), Lyon, France, 2024, pp. 857-861 </p>
-    <p>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a>
-    </p>
-  </div>
-</div>
-
-
-
----
-
-Dissertation / Thesis Papers
-======
-
 <div style="height: 30px;"></div>
 
+
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="/images/UNIST_system_model.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;"> [B.S. Thesis] Degree-Preserving Local Differential Privacy for Analyzing Coreness of Decentralized Social Networks </h3>
+    <h3 style="margin-top: 0;"> Undergraduate Internship Mentor </h3>
+    <p> Sep. 2024 - Dec. 2024 </p>
+    <p> Korea Advanced Institute of Science and Technology (KAIST) </p>
+    <p> Advised an undergraduate student’s thesis research </p>
+    <p> Research topic: joint channel and time-interleaved ADC mismatch compensation in OFDM systems </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> Aramco Coding School </h3>
+    <p> Aug. 2022 - Nov. 2022 </p>
+    <p> Saudi Arabian Oil Company </p>
+    <p> Developed an iOS application for protecting the environment with middle school students </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> A.I. 4.0 Studio </h3>
+    <p> May 2022 – Nov. 2022 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
-    <p> *This research was initially conducted during my internship at InfoLab (KAIST) </p>
-    <p>
-      <a href="/files/UNIST_thesis.pdf" class="btn btn--pdf btn--small">Paper</a>
-      <a href="/files/UNIST_thesis_poster.pdf" class="btn btn--slides btn--small">Poster</a>
-    </p>
-  </div>
-</div>
-
-
-
-
-
----
-
-Domestic Conference Papers 🇰🇷
-======
-
-<div style="height: 10px;"></div>
-
-\[PUBLISHED / ACCEPTED\]
-
-<div style="height: 20px;"></div>
-
-
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div>
-    <h3 style="margin-top: 0;"> [DC2] 초광대역 위성간 통신을 위한 시간 교차 ADC 시스템 </h3>
-    <p> <strong>성지원</strong>, 최진석 </p>
-    <p> 통신 정보 합동 학술대회 (<strong>JCCI</strong>), Apr. 23-25, 2025, 속초 </p>
-    <p>
-      <a href="/files/JCCI_2025_JiwonSung.pdf" class="btn btn--pdf btn--small">Paper</a>
-    </p>
+    <p> Implemented <em>pix2pix<\em> (image-to-image translation with cGAN) with high school students using Tensorflow </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div>
-    <h3 style="margin-top: 0;"> [DC1] 양자화기 기반 전송률분할 다중접속 프리코더 및 전송 전력 최적화 </h3>
-    <p> <strong>성지원</strong>, 박석준, 최진석 </p>
-    <p> 통신 정보 합동 학술대회 (<strong>JCCI</strong>), Apr. 24-26, 2024, 부산 </p>
-    <p>
-      <a href="/files/JCCI_2024_JiwonSung.pdf" class="btn btn--pdf btn--small">Paper</a>
-    </p>
+    <h3 style="margin-top: 0;"> Ulju-gun Science Mentoring for the Gifted </h3>
+    <p> Jan. 2019 </p>
+    <p> Ulsan National Institute of Science and Technology (UNIST) </p>
+    <p> Served as an algebra instructor for middle school students in a 3-week educational program </p>
   </div>
 </div>
-
-
 
 
 
