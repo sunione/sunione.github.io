@@ -13,11 +13,11 @@ My research interests lie at the intersection of **wireless communications**, **
 - Image-to-image translation using generative adversarial networks (GANs)
 - Local differential privacy (LDP) in decentralized social networks
 - Multiple access schemes such as SDMA and RSMA
-- Mismatch error estimation and compensation in time-interleaved ADCs (TI-ADCs)
+- Mismatch error estimation and compensation in time-interleaved ADCs (TI-ADCs)  
 
 
 
-<div style="height: 10px;"></div>
+
 
 # Education
 
