@@ -135,7 +135,7 @@ Mentoring Experience
     <h3 style="margin-top: 0;"> A.I. 4.0 Studio </h3>
     <p> May 2022 – Nov. 2022 </p>
     <p> Ulsan National Institute of Science and Technology (UNIST) </p>
-    <p> *Implemented <em>pix2pix</em> (image-to-image translation with cGAN) with high school students using Tensorflow </p>
+    <p> *Implemented <a href="https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html">pix2pix</a> with high school students using Tensorflow </p>
     <p>
       <a href="https://www.youtube.com/watch?v=VZ19ihWSSXs&list=PLk3Up81lz3FWdovNRmj-PSFsaYUPgWi80&index=5" class="btn btn--youtube btn--small">YouTube</a>
     </p>
