@@ -20,6 +20,8 @@ My research interests lie at the intersection of **wireless communications**, **
 
 <div style="height: 30px;"></div>
 
+---
+
 # Education
 
 ### Korea Advanced Institute of Science and Technology (KAIST)  
