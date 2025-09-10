@@ -63,7 +63,7 @@ author_profile: true
     <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
     <p>
       <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
-      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a> -->
+      <a href="https://ieeexplore.ieee.org/document/11153655" class="btn btn--xplore btn--small">Xplore</a>
     </p>
   </div>
 </div>
