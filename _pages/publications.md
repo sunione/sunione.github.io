@@ -62,8 +62,8 @@ author_profile: true
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
     <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
     <p>
-      <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
       <a href="https://ieeexplore.ieee.org/document/11153655" class="btn btn--xplore btn--small">Xplore</a>
+      <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
     </p>
   </div>
 </div>
