@@ -6,22 +6,6 @@ author_profile: true
 ---
 
 
-<!--
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
-  <img src="/images/paper-example.png" alt="Paper Example" style="width: 250px; height: auto; margin-right: 20px; flex-shrink: 0;">
-  <div>
-    <h3 style="margin-top: 0;">Paper Title Number 5, with math E=mc²</h3>
-    <p><em>Your Name</em>, You</p>
-    <p>GitHub Journal of Bugs, 2024</p>
-    <p>This paper is about a famous math equation, E=mc²</p>
-    <p>
-      <a href="https://arxiv.org/abs/2024.xxxxx" class="btn btn--primary btn--small">arXiv</a>
-      <a href="http://academicpages.github.io/files/paper3.pdf" class="btn btn--primary btn--small">Xplore</a>
-      <a href="/files/paper5-slides.pdf" class="btn btn--primary btn--small">Slides</a>
-    </p>
-  </div>
-</div>
--->
 
 
 <div style="height: 10px;"></div>
@@ -60,7 +44,7 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
-    <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
+    <p> IEEE Signal Processing Letters (<strong>SPL</strong>) </p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/11153655" class="btn btn--xplore btn--small">Xplore</a>
       <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
