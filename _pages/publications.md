@@ -73,7 +73,7 @@ International Conference Papers
   <div>
     <h3 style="margin-top: 0;"> [C2] Joint Optimization for Power-Constrained MIMO Systems: Is Low-Resolution DAC Still Optimal? </h3>
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
-    <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC</strong>), Oslo, Norway, 2025 (accepted) </p>
+    <p> 2025 IEEE 101st Vehicular Technology Conference (<strong>VTC2025-Spring</strong>), Oslo, Norway, 2025 (accepted) </p>
     <p>
       <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--xplore btn--small">Xplore</a> -->
       <a href="/files/VTC2025_JiwonSung_vf.pptx" class="btn btn--slides btn--small">Slides</a>
