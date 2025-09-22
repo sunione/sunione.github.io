@@ -16,6 +16,7 @@ My research interests lie at the intersection of **wireless communications**, **
 - Multiple access schemes such as SDMA and RSMA
 - Mismatch error estimation and compensation in time-interleaved ADCs (TI-ADCs)  
 
+I also spent part of my childhood in the US and Austria, which helped me become comfortable communicating in English and connecting with people from diverse backgrounds.
 
 
 <div style="height: 30px;"></div>
