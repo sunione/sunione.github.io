@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="height: 10px;"></div>
 
-\[SUBMITTED / IN PREPARATION\]
+\[SUBMITTED\]
 
 <div style="height: 20px;"></div>
 
