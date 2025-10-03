@@ -44,7 +44,7 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;"> [J1] A New Interpretation of the Time-Interleaved ADC Mismatch Problem: A Tracking-Based Hybrid Calibration Approach </h3>
     <p> <strong>Jiwon Sung</strong> and Jinseok Choi </p>
-    <p> IEEE Signal Processing Letters (<strong>SPL</strong>), accepted for publication </p>
+    <p> IEEE Signal Processing Letters (<strong>SPL</strong>), vol. 32, pp. 3710-3714, 2025 </p>
     <p>
       <a href="https://ieeexplore.ieee.org/document/11153655" class="btn btn--xplore btn--small">Xplore</a>
       <a href="https://arxiv.org/abs/2503.10022" class="btn btn--arxiv btn--small">arXiv</a>
