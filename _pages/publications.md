@@ -21,7 +21,7 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;"> [S1] Power-Constrained and Quantized MIMO-RSMA Systems with Imperfect CSIT: Joint Precoding, Antenna Selection, and Power Control </h3>
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
-    <p> IEEE Transactions on Wireless Communications (<strong>TWC</strong>), under peer review </p>
+    <p> IEEE Transactions on Wireless Communications (<strong>TWC</strong>), under minor revision </p>
     <p>
       <a href="https://arxiv.org/abs/2508.05080" class="btn btn--arxiv btn--small">arXiv</a>
       <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10714955" class="btn btn--primary btn--small">Xplore</a> -->
