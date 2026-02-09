@@ -122,9 +122,9 @@ social:
   name: null
   links: null
 analytics:
-  provider: 'false'
+  provider: google
   google:
-    tracking_id: null
+    tracking_id: G-YMZBKRXQX8
 include:
   - .htaccess
   - _pages
