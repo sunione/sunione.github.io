@@ -35,8 +35,8 @@ author_profile: true
     <p> <strong>Jiwon Sung</strong>, Seokjun Park, and Jinseok Choi </p>
     <p> IEEE Transactions on Wireless Communications (<strong>TWC</strong>, Early Access) </p>
     <p>
+      <a href="https://ieeexplore.ieee.org/document/11519550" class="btn btn--primary btn--small">Xplore</a>
       <a href="https://arxiv.org/abs/2508.05080" class="btn btn--arxiv btn--small">arXiv</a>
-      <a href="[https://ieeexplore.ieee.org/abstract/document/10714955](https://ieeexplore.ieee.org/document/11519550)" class="btn btn--primary btn--small">Xplore</a>
     </p>
   </div>
 </div>
