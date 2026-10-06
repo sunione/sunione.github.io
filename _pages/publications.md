@@ -73,7 +73,7 @@ International Conference Papers
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/C3_power_map.pdf" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <img src="/images/C3_power_map.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [S3] Cooperative Dynamic Spectrum Access for Cell-Free MISO Networks Using Spectrum Consumption Models </h3>
     <p> <strong>Jiwon Sung</strong>, Seungmin Choi, Abhiram R. Gorle, Atul A. Salvekar, Igor Kadota, and John M. Cioffi </p>
