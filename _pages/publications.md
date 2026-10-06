@@ -66,6 +66,53 @@ International Conference Papers
 
 <div style="height: 10px;"></div>
 
+\[SUBMITTED\]
+
+<div style="height: 20px;"></div>
+
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/C3_power_map.pdf" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <h3 style="margin-top: 0;"> [S3] Cooperative Dynamic Spectrum Access for Cell-Free MISO Networks Using Spectrum Consumption Models </h3>
+    <p> <strong>Jiwon Sung</strong>, Seungmin Choi, Abhiram R. Gorle, Atul A. Salvekar, Igor Kadota, and John M. Cioffi </p>
+    <p> Submitted to ICC </p>
+    <p>
+      <a href="https://arxiv.org/abs/2609.36296" class="btn btn--arxiv btn--small">arXiv</a>
+    </p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> [S2] Noise-Space Reward Alignment for Few-Step Generative Models </h3>
+    <p> Woocheol Shin, Taeyoung Yun, <strong>Jiwon Sung</strong>, Hyeongyu Kang, Jeongmin Park, Jaewoo Lee, Kyuil Sim, Dohyun Kim, Yutong He, and Jinkyoo Park </p>
+    <p> Submitted to ICLR </p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> [S1] Small Models Scout Bottleneck Order for Large-Model Data Control </h3>
+    <p> Seungmin Choi, <strong>Jiwon Sung</strong>, Muhammad Umer, Abhiram Rao Gorle, Guijin Son, Youngjae Yu, John M. Cioffi </p>
+    <p> Submitted to AAAI </p>
+    <p>
+      <a href="https://arxiv.org/abs/2608.14936" class="btn btn--arxiv btn--small">arXiv</a>
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div style="height: 10px;"></div>
+
 \[PUBLISHED / ACCEPTED\]
 
 <div style="height: 20px;"></div>
