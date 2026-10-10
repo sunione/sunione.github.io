@@ -97,7 +97,7 @@ International Conference Papers
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3 style="margin-top: 0;"> [S1] Small Models Scout Bottleneck Order for Large-Model Data Control </h3>
-    <p> Seungmin Choi, <strong>Jiwon Sung</strong>, Muhammad Umer, Abhiram Rao Gorle, Guijin Son, Youngjae Yu, John M. Cioffi </p>
+    <p> Seungmin Choi, <strong>Jiwon Sung</strong>, Muhammad Umer, Abhiram Rao Gorle, Guijin Son, Youngjae Yu, and John M. Cioffi </p>
     <p> Submitted to AAAI </p>
     <p>
       <a href="https://arxiv.org/abs/2608.14936" class="btn btn--arxiv btn--small">arXiv</a>
