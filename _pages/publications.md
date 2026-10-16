@@ -90,6 +90,9 @@ International Conference Papers
     <h3 style="margin-top: 0;"> [S2] Noise-Space Reward Alignment for Few-Step Generative Models </h3>
     <p> Woocheol Shin, Taeyoung Yun, <strong>Jiwon Sung</strong>, Hyeongyu Kang, Jeongmin Park, Jaewoo Lee, Kyuil Sim, Dohyun Kim, Yutong He, and Jinkyoo Park </p>
     <p> Submitted to ICLR </p>
+    <p>
+      <a href="https://arxiv.org/abs/2610.21125" class="btn btn--arxiv btn--small">arXiv</a>
+    </p>
   </div>
 </div>
 
