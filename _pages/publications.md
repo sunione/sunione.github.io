@@ -73,6 +73,15 @@ International Conference Papers
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3 style="margin-top: 0;"> [S4] Robust and Computationally Efficient Joint Channel and TI-ADC Mismatch Estimation for OFDM </h3>
+    <p> Sangeon Jeon, <strong>Jiwon Sung</strong>, Xiaoli Ma, and Jinseok Choi </p>
+    <p> Submitted to ICC </p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/C3_power_map.png" class="boxed-image" style="width: 300px; height: auto; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;"> [S3] Cooperative Dynamic Spectrum Access for Cell-Free MISO Networks Using Spectrum Consumption Models </h3>
