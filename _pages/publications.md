@@ -101,6 +101,7 @@ International Conference Papers
     <p> Submitted to ICLR </p>
     <p>
       <a href="https://arxiv.org/abs/2610.21125" class="btn btn--arxiv btn--small">arXiv</a>
+      <a href="https://shin-woocheol.github.io/npo/" class="btn btn--slides btn--small">Homepage</a>
     </p>
   </div>
 </div>
